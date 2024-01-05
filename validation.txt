@@ -1,0 +1,15 @@
+validation for student 'zgcs95':
+
+'NatAlgReal.py' exists in the folder 'zgcs95'
+'NatAlgReport.pdf' exists in the folder 'zgcs95'
+'NegSelReport.pdf' exists in the folder 'zgcs95'
+'NegSelTraining.py' exists in the folder 'zgcs95'
+'WitnessA.txt' exists in the folder 'zgcs95'
+*** error: 'WitnessA_Feb11214040.txt' is an illegal item
+'WitnessB.txt' exists in the folder 'zgcs95'
+*** error: 'WitnessB_Jan19191211.txt' is an illegal item
+'WitnessC.txt' exists in the folder 'zgcs95'
+*** error: 'WitnessC_Jan19191215.txt' is an illegal item
+*** error: 'WitnessC_Jan29035934.txt' is an illegal item
+
+Your submission has *** not *** validated successfully and you need to fix things!
