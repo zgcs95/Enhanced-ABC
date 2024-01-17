@@ -2,7 +2,7 @@
 
 
 ## About this project
-This project applies Artificial Bee Colony algorithm to solve two different problems. The first problem is to find the minimum of a objective. Not only using the vanilla version of the algorithm, this project also adjusts the algorithm to have better performance on the minimum problem. On the other hand, the second problem is largest clique problem. This project suggests two discretization methodology to be combined with ABC algorithm to solve the largest clique problem. 
+This project applies Artificial Bee Colony algorithm to solve two different problems. The first problem is to find the minimum of a objective function. Not only using the vanilla version of the algorithm, this project also adjusts the algorithm to have better performance on the minimum problem. On the other hand, the second problem is largest clique problem. This project suggests two discretization methodology to be combined with ABC algorithm to solve the largest clique problem. 
 
 ## Minimum Problem
 
